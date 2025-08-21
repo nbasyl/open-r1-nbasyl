@@ -33,7 +33,7 @@ packing: false
 max_grad_norm: 0.2
 max_length: 32768
 max_steps: -1
-num_train_epochs: 100000000
+num_train_epochs: 10000000000
 output_dir: data/OpenR1-Distill-7B
 overwrite_output_dir: true
 per_device_eval_batch_size: 1
