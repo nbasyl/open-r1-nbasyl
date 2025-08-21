@@ -34,7 +34,7 @@ max_grad_norm: 0.2
 max_length: 32768
 max_steps: -1
 num_train_epochs: 100000000
-output_dir: data/OpenR1-Distill-32B
+output_dir: data/OpenR1-Distill-32B-1
 overwrite_output_dir: true
 per_device_eval_batch_size: 1
 per_device_train_batch_size: 2
